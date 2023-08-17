@@ -1,0 +1,2 @@
+balu adalah sebuah kucing
+penulisan ini dilakukan dengan insert mode

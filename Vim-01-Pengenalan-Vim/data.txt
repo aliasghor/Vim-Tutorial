@@ -1,0 +1,3 @@
+vim adalah berbasis terminal atau console
+
+vim adalah kepanjangan dari vi improved

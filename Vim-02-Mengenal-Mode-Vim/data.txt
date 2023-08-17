@@ -1,0 +1,11 @@
+normal mode adalah mode default dari vim atau neovim
+
+mode insert digunakan untuk mengetik file atau delete baris file
+
+fungsi visual mode adalah untuk menyeleksi masing-masing text.bisa digunakan untuk copy paste
+
+mode keempat command mode fungsinya adalah untuk:
+1.write
+2.quit
+3.quit without saving any changes
+4.write and quit
